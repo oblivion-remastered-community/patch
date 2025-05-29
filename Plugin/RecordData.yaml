@@ -1,0 +1,9 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Oblivion
+  Version: 0.38.4
+ModKey: ORCPP.esp
+GameRelease: OblivionRE
+ModHeader:
+  Flags:
+  - Master
+  Author: ''
